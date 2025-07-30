@@ -1,0 +1,11 @@
+{
+  // habilita Tailwind para TSX/JSX
+  "tailwindCSS.includeLanguages": {
+    "javascript": "javascript",
+    "javascriptreact": "javascriptreact",
+    "typescript": "typescript",
+    "typescriptreact": "typescriptreact"
+  },
+  // apunta al archivo de config correcto
+  "tailwindCSS.tailwindConfig": "./tailwind.config.js"
+}
